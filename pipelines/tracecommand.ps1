@@ -1,0 +1,1 @@
+Trace-Command -Name ParameterBinding -Expression {New-Object -TypeName PSObject -Property @{'Id' = (Get-Random)} | Stop-Process -WhatIf} -PSHost
