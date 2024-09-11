@@ -1,0 +1,402 @@
+
+Name                     Id    CPU Path
+----                     --    --- ----                                                   
+AccountsControlHost     612   0.23 C:\Windows\SystemApps\Microsoft.AccountsControl_cw5n1h2
+                                   txyewy\AccountsControlHost.exe
+AggregatorHost         6564        
+ApplicationFrameHost   1400   1.30 C:\WINDOWS\system32\ApplicationFrameHost.exe
+audiodg               21276   7.47 
+backgroundTaskHost    12336   0.09 C:\WINDOWS\system32\backgroundTaskHost.exe
+backgroundTaskHost    19884   0.00 C:\WINDOWS\system32\backgroundTaskHost.exe
+bcmHostControlService  3956        
+bcmHostStorageService  3960        
+bcmUshUpgradeService   2528        
+chrome                 2112   0.05 C:\Program Files\Google\Chrome\Application\chrome.exe
+chrome                 2156   3.44 C:\Program Files\Google\Chrome\Application\chrome.exe
+chrome                 6512   0.58 C:\Program Files\Google\Chrome\Application\chrome.exe
+chrome                 7008  98.30 C:\Program Files\Google\Chrome\Application\chrome.exe
+chrome                 8048   0.58 C:\Program Files\Google\Chrome\Application\chrome.exe
+chrome                10156   0.44 C:\Program Files\Google\Chrome\Application\chrome.exe
+chrome                10672  15.48 C:\Program Files\Google\Chrome\Application\chrome.exe
+chrome                12260  89.11 C:\Program Files\Google\Chrome\Application\chrome.exe
+chrome                14868   2.42 C:\Program Files\Google\Chrome\Application\chrome.exe
+chrome                15544 478.97 C:\Program Files\Google\Chrome\Application\chrome.exe
+chrome                15596 109.44 C:\Program Files\Google\Chrome\Application\chrome.exe
+chrome                17456   0.75 C:\Program Files\Google\Chrome\Application\chrome.exe
+chrome                19752 145.28 C:\Program Files\Google\Chrome\Application\chrome.exe
+chrome                19976 569.92 C:\Program Files\Google\Chrome\Application\chrome.exe
+chrome                21752   0.08 C:\Program Files\Google\Chrome\Application\chrome.exe
+chrome                23140   0.20 C:\Program Files\Google\Chrome\Application\chrome.exe
+chrome                23900  27.86 C:\Program Files\Google\Chrome\Application\chrome.exe
+chrome                24216  37.03 C:\Program Files\Google\Chrome\Application\chrome.exe
+chrome                24944   1.80 C:\Program Files\Google\Chrome\Application\chrome.exe
+chrome                25356   5.28 C:\Program Files\Google\Chrome\Application\chrome.exe
+CHXSmartScreen        21076   0.12 C:\Windows\SystemApps\Microsoft.Windows.AppRep.ChxApp_c
+                                   w5n1h2txyewy\CHXSmartScreen.exe
+Code                   2776  50.00 C:\Users\cdsl\AppData\Local\Programs\Microsoft VS
+                                   Code\Code.exe
+Code                   5524   0.30 C:\Users\cdsl\AppData\Local\Programs\Microsoft VS
+                                   Code\Code.exe
+Code                   8392   0.22 C:\Users\cdsl\AppData\Local\Programs\Microsoft VS
+                                   Code\Code.exe
+Code                   9840  63.28 C:\Users\cdsl\AppData\Local\Programs\Microsoft VS
+                                   Code\Code.exe
+Code                  10320  76.78 C:\Users\cdsl\AppData\Local\Programs\Microsoft VS
+                                   Code\Code.exe
+Code                  11468   0.00 C:\Users\cdsl\AppData\Local\Programs\Microsoft VS
+                                   Code\Code.exe
+Code                  15948   0.72 C:\Users\cdsl\AppData\Local\Programs\Microsoft VS
+                                   Code\Code.exe
+Code                  16992  19.00 C:\Users\cdsl\AppData\Local\Programs\Microsoft VS
+                                   Code\Code.exe
+Code                  17196  43.52 C:\Users\cdsl\AppData\Local\Programs\Microsoft VS
+                                   Code\Code.exe
+Code                  17760   1.47 C:\Users\cdsl\AppData\Local\Programs\Microsoft VS
+                                   Code\Code.exe
+Code                  18000   5.36 C:\Users\cdsl\AppData\Local\Programs\Microsoft VS
+                                   Code\Code.exe
+Code                  19188 169.33 C:\Users\cdsl\AppData\Local\Programs\Microsoft VS
+                                   Code\Code.exe
+com.docker.backend    23948  51.64 C:\Program
+                                   Files\Docker\Docker\resources\com.docker.backend.exe
+com.docker.build      19608   4.48 C:\Program
+                                   Files\Docker\Docker\resources\com.docker.build.exe
+com.docker.dev-envs    2672   1.11 C:\Program
+                                   Files\Docker\Docker\resources\com.docker.dev-envs.exe
+com.docker.extensions 14312   4.56 C:\Program
+                                   Files\Docker\Docker\resources\com.docker.extensions.exe
+conhost                4956   0.09 C:\WINDOWS\system32\conhost.exe
+conhost                5404   0.02 C:\WINDOWS\system32\conhost.exe
+conhost               13172   0.06 C:\WINDOWS\system32\conhost.exe
+conhost               14188   0.03 C:\WINDOWS\system32\conhost.exe
+conhost               14264   0.02 C:\WINDOWS\system32\conhost.exe
+conhost               15628   0.06 C:\WINDOWS\system32\conhost.exe
+conhost               19324   0.08 C:\WINDOWS\system32\conhost.exe
+conhost               20900   0.14 C:\WINDOWS\system32\conhost.exe
+conhost               21604   0.00 C:\WINDOWS\system32\conhost.exe
+conhost               21856   0.02 C:\WINDOWS\system32\conhost.exe
+conhost               22656   0.02 C:\WINDOWS\system32\conhost.exe
+conhost               25092   1.09 C:\WINDOWS\system32\conhost.exe
+csrss                   844        
+csrss                   940        
+ctfmon                10628 245.47 
+dasHost                4412        
+dasHost               11080        
+dllhost                8500   6.36 C:\WINDOWS\system32\DllHost.exe
+dllhost                8732   0.05 C:\WINDOWS\system32\DllHost.exe
+dllhost               15576   0.02 C:\WINDOWS\system32\DllHost.exe
+dllhost               16164   0.16 C:\WINDOWS\system32\DllHost.exe
+docker                22664   2.94 C:\Program Files\Docker\Docker\resources\bin\docker.exe
+Docker Desktop        15248   0.06 C:\Program Files\Docker\Docker\frontend\Docker
+                                   Desktop.exe
+Docker Desktop        19400   0.48 C:\Program Files\Docker\Docker\frontend\Docker
+                                   Desktop.exe
+Docker Desktop        20856   3.38 C:\Program Files\Docker\Docker\frontend\Docker
+                                   Desktop.exe
+Docker Desktop        22116  23.94 C:\Program Files\Docker\Docker\Docker Desktop.exe
+Docker Desktop        24012  15.92 C:\Program Files\Docker\Docker\frontend\Docker
+                                   Desktop.exe
+dptf_helper            1840 231.16 C:\WINDOWS\System32\DriverStore\FileRepository\dptf_cpu
+                                   .inf_amd64_c2c5b0e17a28a48f\dptf_helper.exe
+dwm                    2508        
+esif_uf                4276        
+explorer               6716  17.36 C:\WINDOWS\Explorer.EXE
+fontdrvhost            1212        
+fontdrvhost            1216        
+GameBar               20164   0.59 C:\Program Files\WindowsApps\Microsoft.XboxGamingOverla
+                                   y_7.124.5142.0_x64__8wekyb3d8bbwe\GameBar.exe
+GameBarFTServer        1424   0.20 C:\Program Files\WindowsApps\Microsoft.XboxGamingOverla
+                                   y_7.124.5142.0_x64__8wekyb3d8bbwe\GameBarFTServer.exe
+HxAccounts            14908   0.08 C:\Program Files\WindowsApps\microsoft.windowscommunica
+                                   tionsapps_16005.14326.22041.0_x64__8wekyb3d8bbwe\HxAcco
+                                   unts.exe
+HxOutlook             22984   0.08 C:\Program Files\WindowsApps\microsoft.windowscommunica
+                                   tionsapps_16005.14326.22041.0_x64__8wekyb3d8bbwe\HxOutl
+                                   ook.exe
+HxTsr                 12308   0.14 C:\Program Files\WindowsApps\microsoft.windowscommunica
+                                   tionsapps_16005.14326.22041.0_x64__8wekyb3d8bbwe\HxTsr.
+                                   exe
+Idle                      0        
+igfxCUIServiceN        2208        
+igfxEMN                1792   3.59 C:\WINDOWS\System32\DriverStore\FileRepository\cui_dch.
+                                   inf_amd64_b20183c0e1a9d643\igfxEMN.exe
+IntelAudioService      4252        
+IntelCpHDCPSvc         1872        
+jhi_service            4328        
+LockApp                4752   1.02 C:\WINDOWS\SystemApps\Microsoft.LockApp_cw5n1h2txyewy\L
+                                   ockApp.exe
+LsaIso                  920        
+lsass                  1040        
+Memory Compression     3068        
+Microsoft.AAD.BrokerP 15992   2.17 C:\Windows\SystemApps\Microsoft.AAD.BrokerPlugin_cw5n1h
+lugin                              2txyewy\Microsoft.AAD.BrokerPlugin.exe
+Microsoft.SharePoint   3348   4.05 C:\Users\cdsl\AppData\Local\Microsoft\OneDrive\24.166.0
+                                   818.0003\Microsoft.SharePoint.exe
+mongod                 4416        
+MoUsoCoreWorker        3496        
+MpDefenderCoreService  4368        
+ms-teams              11092  15.08 C:\Program Files\WindowsApps\MSTeams_24215.1007.3082.15
+                                   90_x64__8wekyb3d8bbwe\ms-teams.exe
+msedge                 2824   0.03 C:\Program Files
+                                   (x86)\Microsoft\Edge\Application\msedge.exe
+msedge                 9264   0.06 C:\Program Files
+                                   (x86)\Microsoft\Edge\Application\msedge.exe
+msedge                10656  18.36 C:\Program Files
+                                   (x86)\Microsoft\Edge\Application\msedge.exe
+msedge                17576  10.39 C:\Program Files
+                                   (x86)\Microsoft\Edge\Application\msedge.exe
+msedge                19440   0.02 C:\Program Files
+                                   (x86)\Microsoft\Edge\Application\msedge.exe
+msedge                19484   3.62 C:\Program Files
+                                   (x86)\Microsoft\Edge\Application\msedge.exe
+msedge                21844   0.09 C:\Program Files
+                                   (x86)\Microsoft\Edge\Application\msedge.exe
+msedge                24728   0.61 C:\Program Files
+                                   (x86)\Microsoft\Edge\Application\msedge.exe
+msedge                24972   0.33 C:\Program Files
+                                   (x86)\Microsoft\Edge\Application\msedge.exe
+msedge                25168   0.19 C:\Program Files
+                                   (x86)\Microsoft\Edge\Application\msedge.exe
+msedge                25480   0.06 C:\Program Files
+                                   (x86)\Microsoft\Edge\Application\msedge.exe
+msedgewebview2         6912  64.05 C:\Program Files (x86)\Microsoft\EdgeWebView\Applicatio
+                                   n\128.0.2739.67\msedgewebview2.exe
+msedgewebview2         8216   9.52 C:\Program Files (x86)\Microsoft\EdgeWebView\Applicatio
+                                   n\128.0.2739.67\msedgewebview2.exe
+msedgewebview2         8944   0.25 C:\Program Files (x86)\Microsoft\EdgeWebView\Applicatio
+                                   n\128.0.2739.67\msedgewebview2.exe
+msedgewebview2        11248   0.14 C:\Program Files (x86)\Microsoft\EdgeWebView\Applicatio
+                                   n\128.0.2739.67\msedgewebview2.exe
+msedgewebview2        15260  19.89 C:\Program Files (x86)\Microsoft\EdgeWebView\Applicatio
+                                   n\128.0.2739.67\msedgewebview2.exe
+msedgewebview2        16676   0.03 C:\Program Files (x86)\Microsoft\EdgeWebView\Applicatio
+                                   n\128.0.2739.67\msedgewebview2.exe
+msedgewebview2        16808   1.47 C:\Program Files (x86)\Microsoft\EdgeWebView\Applicatio
+                                   n\128.0.2739.67\msedgewebview2.exe
+msedgewebview2        17028   0.06 C:\Program Files (x86)\Microsoft\EdgeWebView\Applicatio
+                                   n\128.0.2739.67\msedgewebview2.exe
+msedgewebview2        17648 198.66 C:\Program Files (x86)\Microsoft\EdgeWebView\Applicatio
+                                   n\128.0.2739.67\msedgewebview2.exe
+msedgewebview2        19696   0.56 C:\Program Files (x86)\Microsoft\EdgeWebView\Applicatio
+                                   n\128.0.2739.67\msedgewebview2.exe
+msedgewebview2        21284   5.59 C:\Program Files (x86)\Microsoft\EdgeWebView\Applicatio
+                                   n\128.0.2739.67\msedgewebview2.exe
+msedgewebview2        24476   5.06 C:\Program Files (x86)\Microsoft\EdgeWebView\Applicatio
+                                   n\128.0.2739.67\msedgewebview2.exe
+msedgewebview2        24696   1.58 C:\Program Files (x86)\Microsoft\EdgeWebView\Applicatio
+                                   n\128.0.2739.67\msedgewebview2.exe
+MsMpEng                4584        
+msrdc                 12732   9.70 C:\Program Files\WSL\msrdc.exe
+msrdc                 16672   9.30 C:\Program Files\WSL\msrdc.exe
+NisSrv                 6612        
+OneApp.IGCC.WinServic  4184       
+e
+OneDrive              17468   5.75 C:\Users\cdsl\AppData\Local\Microsoft\OneDrive\OneDrive
+                                   .exe
+OpenConsole            9468   0.00 
+OpenConsole           19512   0.03 C:\Program Files\WindowsApps\Microsoft.WindowsTerminal_
+                                   1.20.11781.0_x64__8wekyb3d8bbwe\OpenConsole.exe
+PhoneExperienceHost   18864   3.73 C:\Program Files\WindowsApps\Microsoft.YourPhone_1.2408
+                                   1.95.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe
+pwsh                   7384   0.28 
+pwsh                  19468  55.48 C:\Program Files\PowerShell\7\pwsh.exe
+Registry                144        
+RtkAudUService64       2928   0.64 C:\Windows\System32\DriverStore\FileRepository\realteks
+                                   ervice.inf_amd64_807802da47ae00a3\RtkAudUService64.exe
+RtkAudUService64       4484        
+RtkAudUService64       6756        
+RuntimeBroker          4164 113.34 C:\Windows\System32\RuntimeBroker.exe
+RuntimeBroker          6112  87.92 C:\Windows\System32\RuntimeBroker.exe
+RuntimeBroker          8584  12.95 C:\Windows\System32\RuntimeBroker.exe
+RuntimeBroker         10136   0.50 C:\Windows\System32\RuntimeBroker.exe
+RuntimeBroker         11656   0.09 C:\Windows\System32\RuntimeBroker.exe
+RuntimeBroker         11684   4.52 C:\Windows\System32\RuntimeBroker.exe
+RuntimeBroker         12988   0.14 C:\Windows\System32\RuntimeBroker.exe
+RuntimeBroker         14204   0.00 C:\Windows\System32\RuntimeBroker.exe
+RuntimeBroker         17232   0.02 C:\Windows\System32\RuntimeBroker.exe
+RuntimeBroker         20792   0.80 C:\Windows\System32\RuntimeBroker.exe
+RuntimeBroker         22456  49.89 C:\Windows\System32\RuntimeBroker.exe
+RuntimeBroker         23628   1.25 C:\Windows\System32\RuntimeBroker.exe
+RuntimeBroker         25560   0.23 C:\Windows\System32\RuntimeBroker.exe
+SearchHost             7316  10.86 C:\WINDOWS\SystemApps\MicrosoftWindows.Client.CBS_cw5n1
+                                   h2txyewy\SearchHost.exe
+SearchIndexer          3984        
+Secure System           108        
+SecurityHealthService  6648        
+SecurityHealthSystray  9180   0.38 C:\Windows\System32\SecurityHealthSystray.exe
+services                668        
+ShellExperienceHost   23468   0.72 C:\WINDOWS\SystemApps\ShellExperienceHost_cw5n1h2txyewy
+                                   \ShellExperienceHost.exe
+Signal                 6940   7.00 C:\Users\cdsl\AppData\Local\Programs\signal-desktop\Sig
+                                   nal.exe
+Signal                12276   0.66 C:\Users\cdsl\AppData\Local\Programs\signal-desktop\Sig
+                                   nal.exe
+Signal                13516  71.98 C:\Users\cdsl\AppData\Local\Programs\signal-desktop\Sig
+                                   nal.exe
+Signal                18880  86.72 C:\Users\cdsl\AppData\Local\Programs\signal-desktop\Sig
+                                   nal.exe
+Signal                23976   0.28 C:\Users\cdsl\AppData\Local\Programs\signal-desktop\Sig
+                                   nal.exe
+sihost                 2384 336.00 C:\WINDOWS\system32\sihost.exe
+smss                    544        
+spoolsv                3932        
+sqlwriter              4472        
+StartMenuExperienceHo 24844   2.53 C:\WINDOWS\SystemApps\Microsoft.Windows.StartMenuExperi
+st                                 enceHost_cw5n1h2txyewy\StartMenuExperienceHost.exe
+svchost                1184        
+svchost                1356        
+svchost                1404        
+svchost                1536        
+svchost                1552        
+svchost                1576        
+svchost                1664        
+svchost                1696        
+svchost                1724        
+svchost                1736        
+svchost                1744        
+svchost                1772        
+svchost                1888        
+svchost                1916        
+svchost                1948        
+svchost                1972        
+svchost                1988        
+svchost                2016        
+svchost                2040        
+svchost                2072  21.98 C:\WINDOWS\system32\svchost.exe
+svchost                2252        
+svchost                2280        
+svchost                2324        
+svchost                2644        
+svchost                2688        
+svchost                2732        
+svchost                2764        
+svchost                2792        
+svchost                2808        
+svchost                2836        
+svchost                2892  59.45 C:\WINDOWS\system32\svchost.exe
+svchost                2964   3.59 C:\WINDOWS\system32\svchost.exe
+svchost                2996        
+svchost                3008        
+svchost                3024        
+svchost                3084        
+svchost                3420        
+svchost                3476        
+svchost                3484        
+svchost                3648        
+svchost                3704        
+svchost                3712        
+svchost                3732        
+svchost                3852        
+svchost                3876        
+svchost                4008        
+svchost                4024        
+svchost                4076        
+svchost                4204        
+svchost                4220        
+svchost                4228        
+svchost                4292        
+svchost                4312        
+svchost                4324        
+svchost                4428        
+svchost                4444        
+svchost                4508        
+svchost                4612        
+svchost                4628        
+svchost                4764        
+svchost                4804        
+svchost                4832        
+svchost                4936        
+svchost                4960        
+svchost                4984        
+svchost                5388   1.08 C:\WINDOWS\system32\svchost.exe
+svchost                5544        
+svchost                6020        
+svchost                6312        
+svchost                6460        
+svchost                6800        
+svchost                6876        
+svchost                6968        
+svchost                7360        
+svchost                7704        
+svchost                8000   1.25 C:\WINDOWS\system32\svchost.exe
+svchost                8280        
+svchost                8688   5.50 C:\WINDOWS\System32\svchost.exe
+svchost                8772   1.38 C:\WINDOWS\system32\svchost.exe
+svchost                8976  23.00 C:\WINDOWS\system32\svchost.exe
+svchost                9252        
+svchost                9376   3.95 C:\WINDOWS\system32\svchost.exe
+svchost                9748        
+svchost               12228        
+svchost               14836        
+svchost               16140        
+svchost               21780        
+svchost               22952        
+System                    4        
+SystemSettingsBroker  19816   0.12 C:\Windows\System32\SystemSettingsBroker.exe
+TabNine               15280  27.77 c:\Users\cdsl\AppData\Roaming\Code\User\globalStorage\t
+                                   abnine.tabnine-vscode\binaries\4.187.0\x86_64-pc-window
+                                   s-msvc\TabNine.exe
+TabNine               19288   0.78 c:\Users\cdsl\AppData\Roaming\Code\User\globalStorage\t
+                                   abnine.tabnine-vscode\binaries\4.187.0\x86_64-pc-window
+                                   s-msvc\TabNine.exe
+TabNine-deep-cloud     3276   0.84 c:\Users\cdsl\AppData\Roaming\Code\User\globalStorage\t
+                                   abnine.tabnine-vscode\binaries\4.187.0\x86_64-pc-window
+                                   s-msvc\TabNine-deep-cloud.exe
+TabNine-deep-local    19604 262.44 c:\Users\cdsl\AppData\Roaming\Code\User\globalStorage\t
+                                   abnine.tabnine-vscode\binaries\4.187.0\x86_64-pc-window
+                                   s-msvc\TabNine-deep-local.exe
+TabNine-server-runner 10428   0.92 c:\Users\cdsl\AppData\Roaming\Code\User\globalStorage\t
+                                   abnine.tabnine-vscode\binaries\4.187.0\x86_64-pc-window
+                                   s-msvc\TabNine-server-runner.exe
+taskhostw              2200   0.97 
+taskhostw              3548  40.61 C:\WINDOWS\system32\taskhostw.exe
+TbtP2pShortcutService  4464        
+TextInputHost         18660   8.28 C:\WINDOWS\SystemApps\MicrosoftWindows.Client.CBS_cw5n1
+                                   h2txyewy\TextInputHost.exe
+unsecapp               8160        
+unsecapp              11544   1.06 C:\WINDOWS\system32\wbem\unsecapp.exe
+UserOOBEBroker        11232   0.03 C:\Windows\System32\oobe\UserOOBEBroker.exe
+vdb                   11588  60.14 C:\Users\cdsl\AppData\Roaming\TabNine\servers\vdb\1.7.3
+                                   -fix.1\download\vdb.exe
+vmcompute              2552        
+vmmemWSL               8396        
+vmwp                  16624        
+WavesAudioService      4636        
+WavesSvc64            11320   7.94 C:\Windows\System32\DriverStore\FileRepository\wavesapo
+                                   10de.inf_amd64_9a0be44bd2f8b94a\WavesSvc64.exe
+WavesSysSvc64          4560        
+WD-TabNine            24720  58.25 C:\Users\cdsl\AppData\Roaming\Code\User\globalStorage\t
+                                   abnine.tabnine-vscode\binaries\4.187.0\x86_64-pc-window
+                                   s-msvc\WD-TabNine.exe
+Widgets               25268  24.86 C:\Program Files\WindowsApps\MicrosoftWindows.Client.We
+                                   bExperience_524.23700.10.0_x64__cw5n1h2txyewy\Dashboard
+                                   \Widgets.exe
+WidgetService         14992   0.64 C:\Program Files\WindowsApps\Microsoft.WidgetsPlatformR
+                                   untime_1.4.0.0_x64__8wekyb3d8bbwe\WidgetService\WidgetS
+                                   ervice.exe
+WindowsTerminal       18196   0.17 
+wininit                 928        
+winlogon                688        
+WmiPrvSE               1120        
+WmiPrvSE              13704        
+WmiPrvSE              14732        
+WMIRegistrationServic  4644       
+e
+wsl                    3948   0.34 C:\Program Files\WSL\wsl.exe
+wsl                   10292   0.02 C:\WINDOWS\System32\wsl.exe
+wsl                   13132   0.00 C:\WINDOWS\System32\wsl.exe
+wsl                   13388   0.00 C:\WINDOWS\System32\wsl.exe
+wsl                   14320   0.06 C:\Program Files\WSL\wsl.exe
+wsl                   20448   0.02 C:\Program Files\WSL\wsl.exe
+wslhost                5444   0.09 C:\Program Files\WSL\wslhost.exe
+wslhost                6180   0.11 C:\Program Files\WSL\wslhost.exe
+wslhost                8604   0.05 C:\Program Files\WSL\wslhost.exe
+wslhost                9744   0.16 C:\Program Files\WSL\wslhost.exe
+wslhost               18228   0.00 C:\Program Files\WSL\wslhost.exe
+wslhost               18496   0.05 C:\Program Files\WSL\wslhost.exe
+wslhost               21848   0.02 C:\Program Files\WSL\wslhost.exe
+wslrelay              24508   0.03 C:\Program Files\WSL\wslrelay.exe
+wslservice             4720        
+WUDFHost               1228        
+WUDFHost               1480        
+

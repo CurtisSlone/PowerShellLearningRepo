@@ -11,3 +11,5 @@ Write-Host "Decimal is $decimal"
 Write-Host "Is this true? $isTrue"
 
 Get-Variable
+
+Write-Output "The value of `$MyName is $MyName"

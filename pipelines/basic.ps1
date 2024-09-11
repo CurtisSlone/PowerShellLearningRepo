@@ -46,3 +46,5 @@ Get-Process | Select-Object Name, Id
 1,2,3,4,5,6,7,8 | Select-Object -First 2 -skip 1
 
 Get-ChildItem -Path "." | Sort-Object
+
+New-Object -TypeName PSObject -Property @{'Id' = (Get-Random)} | Stop-Process -WhatIf
