@@ -16,6 +16,8 @@ Remove-Item -Path ".\example_moved.txt"
 # Get file metadata
 Get-Item -Path ".\example.txt" | Select-Object Name, Length, LastWriteTime
 
-Get-PSProvider
-Set-Location Env:
-Get-ChildItem
+# Get-PSProvider
+# Set-Location Env:
+# Get-ChildItem
+
+Invoke-Item -Path ".\date.xml"
