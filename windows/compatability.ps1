@@ -1,0 +1,1 @@
+Get-Module | Format-Table -Auto -Wrap Name, CompatiblePSEditions, Version
