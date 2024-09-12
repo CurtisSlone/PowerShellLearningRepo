@@ -1,0 +1,1 @@
+Set-PSBreakpoint -Script .\debugVsVerbose.ps1 -Variable file -Mode read
